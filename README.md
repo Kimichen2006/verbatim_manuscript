@@ -158,11 +158,3 @@ It reflects strong capability in **AI engineering, data science, and intelligent
 
 ---
 
-
-* Text（新聞）
-* Image（OCR）
-* Audio（Whisper）
-
-→ 全部轉成 **Text → MongoDB → LLM**
-
-如果你要，我可以幫你把這三個專案「合併寫成一個總專案 README」，那個會非常像實習/面試 killer project。
