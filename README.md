@@ -1,5 +1,3 @@
-#Verbatim_manuscript
-
 ---
 
 #  YouTube Speech-to-Text Pipeline with Whisper
